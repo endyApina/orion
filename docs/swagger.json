@@ -1,0 +1,19 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "This is official backend API for the ORION FINTECH application",
+        "title": "ORION Backend Service",
+        "contact": {
+            "name": "Endy Apinageri",
+            "email": "apinaendy@gmail.com"
+        },
+        "license": {
+            "name": "Apache 2.0",
+            "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+        },
+        "version": "1.0"
+    },
+    "host": "petstore.swagger.io",
+    "basePath": "/v1",
+    "paths": {}
+}

@@ -1,0 +1,14 @@
+basePath: /v1
+host: petstore.swagger.io
+info:
+  contact:
+    email: apinaendy@gmail.com
+    name: Endy Apinageri
+  description: This is official backend API for the ORION FINTECH application
+  license:
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+  title: ORION Backend Service
+  version: "1.0"
+paths: {}
+swagger: "2.0"
